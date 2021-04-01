@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Francesco Greco and i'm a 16 y/o guy who lives in Montichiari(BS) [Italy]
+- 🌱 I learn everyday, right now i'm studying React
+- 📫 You can reach me visiting my website and compiling ther form, francescogrecoo.github.io or contact me here francesco.greco.priv@gmail.com
